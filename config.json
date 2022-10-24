@@ -3,5 +3,5 @@
     "auth": "false",
     "username": "user",
     "password": "secret",
-    "chromebook": "false"
+    "chromebook": "true"
 }
